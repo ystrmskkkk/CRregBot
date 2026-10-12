@@ -1,0 +1,16 @@
+# Секреты
+.env
+
+# База данных с участниками и результатами
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
